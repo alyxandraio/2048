@@ -1,0 +1,11 @@
+.git
+.gitignore
+.claude
+Dockerfile
+docker-compose.yml
+.dockerignore
+CONTRIBUTING.md
+README.md
+LICENSE.txt
+Rakefile
+.jshintrc
